@@ -8,3 +8,10 @@
   - Error handling
   
 */
+
+/*
+  Traditinal Api
+  Rest Api
+  GraphQL Api
+  ...
+*/
