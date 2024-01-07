@@ -22,6 +22,11 @@
   Modern FD        =>  SPA   =>  REACT
 */
 
+/*
+  request join
+  self destroy
+*/
+
 
 
 
